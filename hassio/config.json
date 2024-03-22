@@ -38,6 +38,7 @@
     "mqtt_user": "str?",
     "mqtt_pass": "str?",
     "port": "port",
-    "local_ip": "str?"
+    "local_ip": "str?",
+    "temp_type": "str?"
   }
 }
